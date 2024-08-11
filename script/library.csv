@@ -1,0 +1,2 @@
+fastqs,sample,library_type,barcodes
+/home/mikirium/HTS_2024_Single_cell_RNA_seq_data_analysis/gunzip_data,SRR5683689_1.fastq,Gene Expression,/home/mikirium/HTS_2024_Single_cell_RNA_seq_data_analysis/celseq_barcodes.192.tabular
